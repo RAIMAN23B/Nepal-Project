@@ -186,7 +186,9 @@
    padding-top: 90px;
    padding-bottom: 50px;
    margin-left: -48px;
+   color: #FFFFFF;
    }
+
 
 
 
@@ -196,7 +198,35 @@
    .SecondOne i{
    font-size: 50px;
    margin-left: -43px;
+   color: #FFFFFF;
    }
+
+
+
+
+
+
+
+
+   .SecondOneArrow {
+   margin-left: 12px;
+   color: #FFFFFF;
+   margin-top: -38px;
+  }
+
+
+
+
+
+
+
+
+
+  .SecondOneArrow i{
+   font-size: 25px;
+   
+  }
+
 
 
 
@@ -204,9 +234,34 @@
 
    .SecondTwo i{
    font-size: 50px;
-   margin-left: 20px;
-   
+   margin-left: 12px;
+   color: #FFFFFF;
    } 
+
+
+
+
+
+
+   .SecondTwoArrow {
+   margin-left: 12px;
+   color: #FFFFFF;
+   margin-top: -38px;
+   }
+   
+   
+
+
+   
+
+
+
+   
+   .SecondTwoArrow i{
+   font-size: 25px;
+   }
+   
+
 
 
 
@@ -266,6 +321,18 @@
 
 
 
+   .SecondBearingLine {
+   background: white;
+   height: 1px;
+   width: 132px;
+   margin-top: 4px;
+   margin-left: 81px;
+  }
+
+
+
+
+
 
 
    .SecondBottom{
@@ -275,6 +342,7 @@
    margin-top: 80px;
    margin-left: -40px;
    margin-right: -330px;
+   margin-bottom: -45px;
    }
 
 
@@ -288,8 +356,8 @@
    font-size: 28px;
    font-weight: 600;
    margin-left: 80px;
-   padding-top: 25px;
-   padding-bottom: 30px;
+   padding-top: 28px;
+   padding-bottom: 30px; 
    }
 
 
@@ -303,25 +371,56 @@
    font-size: 20px;
    font-weight: 400;
    margin-left: 80px;
+   margin-right: -110px;
+   padding-top: 45px;
    }
 
 
 
 
+   
+   .SecondLocation {
+   background: #F5A623;
+   height: 7px;
+   width: 121px;
+   margin-top: -37px;
+   margin-left: 79px;
+  }
 
 
 
 
-   .SplitOne i {
+
+  .SecondNewLocation {
+   background: #99A3AD;
+   height: 1px;
+   width: 220px;
+   margin-top: 1px;
+   margin-left: 79px;
+  }
+
+
+
+
+
+
+  .SplitOne i {
    color: black;
    font-size: 28px;
-   margin-top: 70px;
-   margin-left: 46px;
+   margin-top: 86px;
+   margin-left: 66px;
    margin-right: -69.5px;
    }
 
 
 
+
+   .SplitDownBar {
+   color: black;
+   font-size: 30px;
+   margin-top: -118px;
+   margin-left: 5.5px;
+  }
 
 
 
@@ -385,15 +484,44 @@
    font-size: 20px;
    font-weight: 400;
    margin-left: 125px;
+   padding-top: 45px;
    }
 
 
 
 
+
+
+
+   .SecondActivity {
+   background: #F5A623;
+   height: 7px;
+   width: 105px;
+   margin-top: -37px;
+   margin-left: 128px;
+  }
+   
+   
+   
+
+
+
+   
+  .SecondNewBungee {
+   background: #99A3AD;
+   height: 1px;
+   width: 137px;
+   margin-top: 1px;
+   margin-left: 123px;
+   }
    
 
 
    
+
+
+
+
    .SecondBottomThree h3{
    color: #212529;
    font-size: 28px;
@@ -413,7 +541,39 @@
    font-size: 20px;
    font-weight: 400;
    margin-left: 103px;
+   padding-top: 46px;
    }
+
+
+
+
+
+
+
+   .SecondDateActivity {
+   background: #F5A623;
+   height: 7px;
+   width: 68px;
+   margin-top: -37px;
+   margin-left: 103px;
+  }
+      
+      
+      
+   
+   
+
+
+   
+      
+  .SecondNewSet {
+   background: #99A3AD;
+   height: 1px;
+   width: 88px;
+   margin-top: 1px;
+   margin-left: 102px;
+   }
+
 
 
 
@@ -816,6 +976,7 @@
 
   .FourthCenterThree{
   display: flex;
+  
   }
 
 
@@ -849,7 +1010,13 @@
 
 
 
-
+  .CenterTag {
+   background: #f5a52380;
+   height: 7px;
+   width: 132px;
+   margin-top: -31px;
+   margin-left: -15px;
+ }
 
 
 
@@ -858,6 +1025,7 @@
   color: #546179;
   font-weight: 400;
   margin-left: -15px;
+  padding-top: 45px;
   }
   
 
@@ -1017,7 +1185,7 @@
 
   .PartRight {
   margin-left: 983px;
-  margin-top: -870px;
+  margin-top: -892px;
   }
 
 
@@ -1486,7 +1654,7 @@
   }
 
 
-
+   /* -------------------------------------------------------------- */
 
 
   .SixthLeftDown{
@@ -1514,6 +1682,10 @@
   margin-top: -105px;
   margin-left: 30px;
   }
+
+
+
+
 
 
   .SixthLeft h2{
@@ -1553,12 +1725,18 @@
 
 
 
+
+
+
   .SixthIcons {
   margin-top: -80px;
   margin-left: 105px;
   font-size: 44px;
   color: #ffff;
  }
+
+
+
 
 
   .SixthNextIcons {
@@ -1570,6 +1748,503 @@
 
 
 
+
+  .CrossLine {
+   background: white;
+   height: 4px;
+   width: 132px;
+   margin-top: -25px;
+   margin-left: -154px;
+  }
+
+
+
+
+
+
+
+
+  /* ------------------------------------------------------------------ */
+
+
+  .SixthCentreMiddle{
+   display: flex;
+   position: relative;
+    
+   }
+ 
+ 
+ 
+ 
+ 
+ 
+   .SixthMiddle h4{
+   font-size: 18px;
+   font-weight: 400;
+   padding-bottom: 35px;
+   }
+ 
+ 
+ 
+ 
+ 
+ 
+   .SixthMiddle{
+   margin-top: -105px;
+   margin-left: 30px;
+   visibility: hidden;
+   transition: .6s;
+   opacity: 0;  
+   }
+ 
+
+
+
+
+
+ 
+   .SixthMiddle h2{
+   font-size: 32px;
+   font-weight: 600;
+   }
+   
+ 
+ 
+ 
+ 
+ 
+   .SixthMiddleRight{
+   height: 40px;
+   width: 107px;
+   background: #E81A46;
+   border-radius: 30px;
+   top: -68px;
+   left: 358px;
+   position: absolute;
+   visibility: hidden;
+   transition: .6s;
+   opacity: 0; 
+   }
+        
+        
+   
+   
+   
+   
+   .SixthMiddleTag {
+   position: absolute;
+   color: white;
+   top: 48%;
+   right: -10%;
+   transform: translate(-50%, -50%);
+   font-size: 18px;
+   visibility: hidden;
+   transition: .6s;
+   opacity: 0; 
+   } 
+ 
+ 
+ 
+
+
+
+
+ 
+   .SixthMiddleIcons {
+   margin-top: -80px;
+   margin-left: 105px;
+   font-size: 44px;
+   color: #ffff;
+   visibility: hidden;
+   transition: .6s;
+   opacity: 0; 
+  }
+ 
+ 
+
+
+
+
+   .SixthShareIcons {
+   margin-top: -63px;
+   margin-left: -31px;
+   font-size: 20px;
+   color: #1D293F;
+   visibility: hidden;
+   transition: .6s;
+   opacity: 0; 
+   }
+ 
+ 
+  
+
+   .CrossFitLine {
+   background: white;
+   height: 4px;
+   width: 132px;
+   margin-top: -25px;
+   margin-left: -154px;
+   visibility: hidden;
+   transition: .6s;
+   opacity: 0; 
+   }
+
+
+
+
+
+
+
+
+   /* ------------------------------------------------------ */
+
+
+
+
+   .SixthEndingWay{
+   display: flex;
+   position: relative;
+   }
+    
+    
+    
+    
+    
+    
+   .SixthMiddleWay h4{
+   font-size: 18px;
+   font-weight: 400;
+   padding-bottom: 35px;
+   }
+    
+    
+    
+    
+    
+    
+   .SixthMiddleWay {
+   margin-top: 210px;
+   margin-left: -370px;
+   visibility: hidden;
+   transition: .6s;
+   opacity: 0;
+  }
+    
+
+
+
+
+
+    
+   .SixthMiddleWay h2{
+   font-size: 32px;
+   font-weight: 600;
+   }
+      
+    
+    
+    
+    
+    
+   .SixthWayRight{
+   height: 40px;
+   width: 107px;
+   background: #E81A46;
+   border-radius: 30px;
+   top: 251px;
+   left: -34px;
+   position: absolute;
+   visibility: hidden;
+   transition: .6s;
+   opacity: 0;
+   }
+           
+           
+      
+      
+      
+      
+   .SixthWayTag {
+   position: absolute;
+   color: white;
+   top: 48%;
+   right: -10%;
+   transform: translate(-50%, -50%);
+   font-size: 18px;
+   visibility: hidden;
+   transition: .6s;
+   opacity: 0;
+   } 
+    
+    
+    
+   
+   
+   
+   
+    
+   .SixthWayIcons {
+   margin-top: 243px;
+   margin-left: 105px;
+   font-size: 44px;
+   color: #ffff;
+   visibility: hidden;
+   transition: .6s;
+   opacity: 0;
+   }
+    
+    
+   
+   
+   
+   
+   .SixthEndingIcons {
+   margin-top: 260px;
+   margin-left: -31px;
+   font-size: 20px;
+   color: #1D293F;
+   visibility: hidden;
+   transition: .6s;
+   opacity: 0;
+   }
+    
+    
+
+ 
+
+
+
+   .SixthEndText h3{
+   color: #1D293F;
+   font-size: 24px;
+   font-weight: 500;
+   margin-top: 62px;
+   margin-bottom: 25px;
+   margin-left: 75px;
+   }
+    
+    
+    
+
+
+
+   .SixthEndText p{
+   color: #546179;
+   font-size: 18px;
+   font-weight: 400;
+   line-height: 26px;
+   margin-right: -55px;
+   margin-left: 35px;
+   }
+
+
+
+
+
+   .CrossOutFitLine {
+   background: white;
+   height: 4px;
+   width: 132px;
+   margin-top: 290px;
+   margin-left: -154px;
+   visibility: hidden;
+   transition: .6s;
+   opacity: 0;
+   }
+
+
+
+
+
+
+
+
+
+
+/* ---------------------------------------- */
+
+
+   .SixthOldRight {
+   height: 40px;
+   width: 75px;
+   background: #FEF2DE;
+   border-radius: 30px;
+   top: 28px;
+   left: 395px;
+   position: absolute;
+   visibility: hidden;
+   transition: .6s;
+   opacity: 0; 
+   }
+           
+           
+      
+      
+      
+      
+   .SixthOldTag {
+   position: absolute;
+   color: #F5A623;
+   top: 51%;
+   right: 2%;
+   transform: translate(-50%, -50%);
+   font-size: 18px;
+   visibility: hidden;
+   transition: .6s;
+   opacity: 0; 
+   }
+
+
+
+
+
+
+
+   .SixthWorld:hover .SixthOldRight{
+   visibility: visible;
+   opacity: 1;  
+   } 
+
+
+
+
+
+
+
+   .SixthWorld:hover .SixthOldTag{
+   visibility: visible;
+   opacity: 1;  
+   } 
+
+
+
+
+    
+
+
+   
+   .SixthWorld:hover .SixthMiddle {
+   visibility: visible;
+   opacity: 1;  
+   } 
+
+
+
+
+
+
+
+   .SixthWorld:hover .SixthMiddleRight{
+   visibility: visible;
+   opacity: 1;  
+   } 
+   
+   
+   
+   
+   
+   
+   
+   .SixthWorld:hover .SixthMiddleTag{
+   visibility: visible;
+   opacity: 1;  
+   } 
+   
+
+
+
+
+   
+
+
+   .SixthWorld:hover .SixthMiddleIcons{
+   visibility: visible;
+   opacity: 1;  
+   } 
+
+
+
+
+
+
+   .SixthWorld:hover .SixthShareIcons{
+   visibility: visible;
+   opacity: 1;  
+   } 
+
+
+
+  /* --------------------------------- */
+
+   
+
+
+  .SixthWorld:hover .SixthMiddleWay {
+   visibility: visible;
+   opacity: 1;  
+   } 
+
+
+
+
+
+
+
+   .SixthWorld:hover .SixthWayRight{
+   visibility: visible;
+   opacity: 1;  
+   } 
+   
+   
+   
+   
+   
+   
+   
+   .SixthWorld:hover .SixthWayTag{
+   visibility: visible;
+   opacity: 1;  
+   } 
+   
+
+
+
+
+   
+
+
+   .SixthWorld:hover .SixthWayIcons{
+   visibility: visible;
+   opacity: 1;  
+   } 
+
+
+
+
+
+
+   .SixthWorld:hover .SixthEndingIcons{
+   visibility: visible;
+   opacity: 1;  
+   } 
+
+
+
+
+
+   
+   .SixthWorld:hover .CrossFitLine{
+   visibility: visible;
+   opacity: 1;  
+   } 
+
+
+
+   
+   .SixthWorld:hover .CrossOutFitLine{
+   visibility: visible;
+   opacity: 1;  
+   } 
 
 
 
@@ -1910,6 +2585,15 @@
 
 
 
+  .NinthGoggle{
+   padding-left: 68px;
+   margin-top: -16px;
+  }
+
+
+
+
+
 
 
   .NinthContentPart{
@@ -1932,7 +2616,6 @@
   font-size: 24px;
   font-weight: 400;
   color: #E81A46;
-  
   margin-bottom: 30px;
   }
 
@@ -2081,6 +2764,9 @@
 
 
 
+
+
+
   .TenthContent{
   margin-left: 135px;
   }
@@ -2110,7 +2796,8 @@
 
 
   .Dots{
-  margin-top: 70px;
+  margin-top: 120px;
+  padding-left: 36px;
   }
 
 
@@ -2130,12 +2817,126 @@
 
 
 
+  .TenthLogo {
+  margin-top: -518px;
+  margin-left: 250px;
+  font-size: 130px;
+  color: #FFFFFF;
+  }
+
+
+
+  .TenthHeadPhone {
+  margin-top: -159px;
+  margin-left: 280px;
+  font-size: 70px;
+  color: #E81A46;
+  }
+
+ 
+
+
+  .TenthLogoCircle {
+  margin-top: -518px;
+  margin-left: 250px;
+  font-size: 130px;
+  color: #FFFFFF;
+  }
+
+
+
+
+  .TenthQna {
+  margin-top: -155px;
+  margin-left: 280px;
+  font-size: 70px;
+  color: #1D293F;
+  }
+
+
+
+  .TenthSales{
+  margin-left: 100px;
+  }
+
+
+
+
+  .TenthSales h3{
+  font-size: 32px;
+  font-weight: 500;
+  color: #FFFFFF;
+  padding-top: 80px;
+  padding-bottom:35px;
+  }
+
+
+
+  
+  .TenthSales p{
+  font-size: 25px;
+  font-weight: 400;
+  color: #BCF0EC;
+  margin-right: -16px;
+  line-height: 35px;
+  padding-bottom: 45px;
+  }
+
+
+
+
+  .TenthSales h4{
+   font-size: 25px;
+   font-weight: 400;
+   color: #FFFFFF;
+   padding-bottom: 35px;
+   }
 
 
 
 
 
 
+
+
+  .TenthCost{
+   margin-left: 100px;
+   }
+
+
+
+
+
+  
+  .TenthCost h3{
+   font-size: 32px;
+   font-weight: 500;
+   color: #FFFFFF;
+   padding-top: 80px;
+   padding-bottom:35px;
+   }
+ 
+ 
+ 
+   
+   .TenthCost p{
+   font-size: 25px;
+   font-weight: 400;
+   color: #546179;
+   margin-right: -16px;
+   line-height: 35px;
+   padding-bottom: 45px;
+   }
+
+
+
+
+   .TenthCost h4{
+   font-size: 25px;
+   font-weight: 400;
+   color: #FFFFFF;
+   padding-bottom: 35px;
+   }
 
 
 
@@ -2151,6 +2952,121 @@
 
 
 
+ /* Last Header Part Start */
+
+
+
+
+
+  #LastPart{
+   padding-top: 50px;
+   padding-bottom: 70px;
+  }
+
+  
+
+
+
+  .LastContainer{
+   display: flex;
+   margin-left: 10px;
+  }
+
+
+
+
+
+
+   .LastLink h3{
+   font-size: 24px;
+   font-weight: 600;
+   color: #1D293F;
+   margin-left: 30px;
+   margin-right: -40px;
+  }
+ 
+
+
+
+
+
+  .LastContainer i{
+   font-size: 35px;
+   color: #1D293F;
+   margin: -7px 0px;
+  }
+
+
+
+
+
+
+  .LastPlus {
+   margin-top: -30px;
+   margin-left: 10px;
+  }
+
+
+
+
+
+
+
+  .LastPlus i{
+   font-size: 18px;
+   color: #1D293F;
+  }
+
+
+
+
+
+
+  .LastNext p{
+   font-size: 24px;
+   color: #546179;
+   font-weight: 400;
+   margin-right: -175px;
+   margin-left: 70px;
+  }
+
+
+
+
+
+
+
+   .LastRight{
+   margin-left: 1085px;
+   margin-top: -25px;
+  } 
+
+
+
+
+
+
+
+  .LastRight p{
+  font-size: 24px;
+  color: #212529;
+  font-weight: 400;
+  margin-right: -65px;
+  } 
+
+
+
+
+
+
+  .LastLine {
+   background: #E9ECEF;
+   padding: 0px 773px;
+   margin-top: 71px;
+   margin-left: 22px;
+   width: 152px;
+   height: 1px;
+  }
 
 
 
@@ -2162,6 +3078,23 @@
 
 
 
+  .LastAdventure{
+  margin-top: 72px;
+  }
+
+
+
+
+
+
+
+  .LastAdventure h3{
+  color: #E81A46;
+  font-size: 25px;
+  font-weight: 400;
+  padding-top: 0px;
+  padding-bottom: 30px;
+  }
 
 
 
@@ -2170,6 +3103,13 @@
 
 
 
+  .LastAdventure p{
+   font-size: 40px;
+   font-weight: 500;
+   color: #1D293F;
+   margin-right: -90px;
+   line-height: 55px; 
+  }
 
 
 
@@ -2178,6 +3118,410 @@
 
 
 
+  .LastOffice{
+   display: flex;
+   margin-top: -17px;
+  }
 
- /* Header Part Start */
- /* Header Part End */
+
+
+
+
+
+
+
+  .LastVenue{
+   margin-top: 92px;
+   margin-left: 35px;
+  }
+
+
+
+
+
+
+
+
+  .LastVenue h3{
+   font-size: 25px;
+   color: black;
+   margin-right: -130px;
+   margin-bottom: 18px;
+  }
+
+
+
+
+
+
+  .LastVenue p{
+  font-size: 25px;
+  color: black;
+  margin-right: -205px;
+  margin-bottom: 45px;
+  }
+
+
+
+
+
+
+
+  .LastVenue i{
+   color: #1D293F;
+   font-size: 40px;
+  }
+
+
+
+
+
+
+  .LastGlobe i{
+   font-size: 75px;
+   margin-top: 95px;
+   margin-left: 714px;
+   color: #e81a476c;
+  }
+
+
+
+
+
+  .LastOneLine {
+   background: #E9ECEF;
+   padding: 0px 781px;
+   margin-top: 71px;
+   margin-left: 7px;
+   width: 152px;
+   height: 1px;
+   }
+
+
+
+
+
+
+
+  .LastPlanet {
+   color: #E81A46;
+   font-size: 40px;
+   margin-top: -218px;
+   margin-left: 1215px;
+   }
+
+
+
+
+
+
+  .LastService h3{
+   font-size: 25px;
+   font-weight: 500;
+   color: #1D293F;
+   padding-bottom: 20px;
+  }
+
+
+
+
+
+
+
+  .LastService{
+   margin-top: 260px;
+  }
+
+
+
+
+  
+  .LastService h4 {
+   font-size: 18px;
+   font-weight: 400;
+   color: #546179;
+   padding-top: 35px;
+   margin-right: -60px;
+  }
+
+
+
+
+
+
+  .LastTravel h3{
+   font-size: 25px;
+   font-weight: 500;
+   color: #1D293F;
+   padding-bottom: 20px;
+  }
+
+
+
+
+  .LastTravel{
+   margin-top: 259px;
+   margin-left: 45px;
+  }
+
+
+
+
+  
+  .LastTravel h4 {
+   font-size: 18px;
+   font-weight: 400;
+   color: #546179;
+   padding-top: 35px;
+   margin-right: -125px;
+  }
+
+
+
+
+
+  .LastCountry h3{
+   font-size: 25px;
+   font-weight: 500;
+   color: #1D293F;
+   padding-bottom: 20px;
+  }
+
+
+
+
+  .LastCountry{
+   margin-top: 257px;
+   margin-left: 120px;
+  }
+
+
+
+
+  
+  .LastCountry h4 {
+   font-size: 18px;
+   font-weight: 400;
+   color: #546179;
+   padding-top: 35px;
+   margin-right: -130px;
+  }
+
+
+
+
+
+
+
+  .LastTouch{
+   display: flex;
+   margin-top: 254px;
+   margin-left: 350px;
+  }
+
+
+
+
+
+
+   .LastTouch h4{
+   font-size: 25px;
+   font-weight: 400;
+   color: #1D293F;
+   margin-right: -165px;
+   padding-bottom: 35px;
+   }
+
+
+
+
+
+
+   .LastTouch h3{
+   font-size: 40px;
+   font-weight: 500;
+   color: #1D293F;
+   margin-right: -190px;
+   }
+
+
+
+
+
+
+   
+   .LastLime i{
+   font-size: 40px;
+   color: #1D293F;
+   margin-top: 50px;
+   }
+
+
+
+
+
+
+
+
+   .LastLime{
+   padding: 0px 220px;
+   }
+
+
+
+
+
+
+
+   .LastContacts{
+   display: flex;
+   position: relative;
+   }
+    
+    
+    
+    
+    
+
+    
+   .TenthOne{
+   position: absolute;
+   height: 60px;
+   width: 460px;
+   background: #ffffff;
+   top: 100px;
+   right: -290px;
+   -webkit-box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.75);
+   -moz-box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.75);
+   box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.2);
+   }
+      
+     
+     
+    
+    
+           
+   .TenthOne h3{
+   position: absolute; 
+   color: #546179;
+   top: 50%; left: 35%;
+   transform: translate(-50%, -50%);
+   font-size: 20px;
+   font-weight: 300;
+   }   
+            
+    
+    
+    
+
+
+
+   .TenthOne i{
+   position: absolute;
+   font-size: 25px;
+   color: #546179;
+   margin-top: 18px;
+   margin-left: 30px;
+   }
+    
+    
+    
+    
+    
+    
+    
+             
+   .TenthTwo {
+   position: absolute;
+   height: 63px;
+   width: 120px;
+   background: #E81A46;
+   top: 99px;
+   right: -410px;
+   }
+     
+     
+           
+    
+    
+    
+   .TenthTwo h3{
+   position: absolute; 
+   color: white;
+   top: 50%; left: 50%;
+   transform: translate(-50%, -50%);
+   font-size: 18px;
+   font-weight: 300;
+   margin-right: -70px;
+   }    
+
+
+
+
+
+   .LastOne h3{
+   font-size: 25px;
+   color: black;
+   margin-top: 145px;
+   font-weight: 400;
+   }
+
+
+
+
+
+   .LastTwo p{
+   font-size: 25px;
+   color: black;
+   margin-top: 145px;
+   font-weight: 400;
+   margin-right: -210px;
+   margin-left: 95px;
+   }
+
+
+
+
+
+
+
+  .LastYear p{
+  font-size: 18px;
+  color: black;
+  margin-top: 125px;
+  }
+
+
+
+
+
+  .LastPayment{
+   margin-left: 205px;
+   margin-top: 120px;
+  }
+
+
+
+
+
+  .LastTwoLine {
+   background: #E9ECEF;
+   padding: 0px 750px;
+   margin-top: -84px;
+   margin-left: 7px;
+   width: 152px;
+   height: 1px;
+  }
+
+
+
+
+
+
+ /* Last Header Part End */
+
+
+
+
+
+ 
